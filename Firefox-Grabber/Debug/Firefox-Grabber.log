@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+C:\Users\TAWFIK\Desktop\C# Project\Firefox-Grabber\Firefox-Grabber\dllmain.cpp(52,8): warning C4101: 'readed': unreferenced local variable
+  utils.cpp
+C:\Users\TAWFIK\Desktop\C# Project\Firefox-Grabber\Firefox-Grabber\utils.cpp(9,30): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Firefox-Grabber.vcxproj -> C:\Users\TAWFIK\Desktop\C# Project\Firefox-Grabber\Debug\Firefox-Grabber.dll
